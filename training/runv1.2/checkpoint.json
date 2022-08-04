@@ -1,0 +1,1 @@
+{"learn_every": 10, "learn_n_times": 20, "lr_actor": 0.001, "lr_critic": 0.001, "fc1_units": 300, "fc2_units": 150, "noise_scalar": 0.25}
