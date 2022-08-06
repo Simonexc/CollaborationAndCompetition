@@ -1,0 +1,1 @@
+{"ddpg": {"lr_actor": 3e-06, "lr_critic": 1e-05, "actor_l1": 300, "actor_l2": 150, "critic_l1": 400, "critic_l2": 200, "noise_scalar": 0.05, "noise_decay": 0.9993}, "multi_agent": {"learn_every_t_steps": 10, "learn_n_times": 20}}
